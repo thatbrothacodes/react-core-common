@@ -1,6 +1,6 @@
 {
   "name": "react-core-common",
-  "version": "1.0.115",
+  "version": "1.0.116",
   "description": "",
   "main": "./build/index.js",
   "scripts": {
