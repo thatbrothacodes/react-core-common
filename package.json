@@ -2,7 +2,7 @@
   "name": "react-core-common",
   "version": "1.0.120",
   "description": "",
-  "main": "./index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c && npm version patch && cp package.json ./build"
