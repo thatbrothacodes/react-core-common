@@ -1,11 +1,11 @@
 {
   "name": "react-core-common",
-  "version": "1.0.117",
+  "version": "1.0.118",
   "description": "",
   "main": "./build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rollup -c && npm version patch && cp package.json /build"
+    "build": "rollup -c && npm version patch && cp package.json ./build"
   },
   "keywords": [],
   "author": "",
