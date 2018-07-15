@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rollup -c && npm version patch"
+    "build:minor": "rollup -c && npm version minor",
+    "build:patch": "rollup -c && npm version patch"
   },
   "keywords": [],
   "author": "",
